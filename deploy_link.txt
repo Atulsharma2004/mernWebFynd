@@ -1,1 +1,1 @@
-https://ecommerce-payment-app.onrender.com
+http://ecommerce-payment-app.netlify.app
